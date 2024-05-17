@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  input, button {
+    padding: 10px;
+    margin: 10px 0;
+    width: 80%;
+  }
+  
+  pre {
+    background: #f4f4f4;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
